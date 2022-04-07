@@ -15,16 +15,16 @@
 		<h5>Daftar Pengguna Peduli Diri</h5>
 	</center>
 
-	<table class="table table-striped">
+	<table class="table table-bordered">
 		<thead>
 			<tr>
             <th scope="col">No.</th>
-                    <th>NIK</th>
-                    <th>Nama</th>
-                    <th>Telp</th>
-                    <th>Username</th>
-					<th>Email</th>
-                    <th>Alamat</th>
+            <th scope="col">NIK</th>
+            <th scope="col">Nama</th>
+            <th scope="col">Telp</th>
+            <th scope="col">Username</th>
+			<th scope="col">Email</th>
+            <th scope="col">Alamat</th>
 			</tr>
 		</thead>
 		<tbody>
